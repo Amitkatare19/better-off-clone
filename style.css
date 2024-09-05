@@ -188,17 +188,13 @@ nav ul li:hover {
 .page4 {
     padding: 0 30px;
     width: 100%;
+    background-color: #ffff;
 }
 
 .page4nav {
     font-size: 10px;
     position: initial;
 }
-
-/* .page4content {
-    display: flex;
-    flex-wrap: wrap;
-} */
 
 .page4content {
     position: relative;
